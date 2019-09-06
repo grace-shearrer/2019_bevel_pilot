@@ -1,0 +1,47 @@
+
+17.4101 	Level b.jpg at position=left and a.jpg at position=right 	25
+20.1429 	DATA 	Keypress: 1
+20.1596 	Level keypress=1 at time= 2.717394 	25
+20.2878 	Level SHOWING IMAGE b.jpg 	25
+20.2941 	Level Reinforcement of 2 and a keypress of 1 for image of b.jpg 	25
+28.1417 	Level finished 	25
+#incorrect ^
+
+28.4104 	Level b.jpg at position=left and a.jpg at position=right 	25
+32.1429 	DATA 	Keypress: 1
+32.1640 	Level keypress=1 at time= 2.995030 	25
+32.2932 	Level SHOWING IMAGE b.jpg 	25
+32.2986 	Level Reinforcement of 2 and a keypress of 1 for image of b.jpg 	25
+40.1417 	Level finished 	25
+#correct^
+
+40.4047 	Level a.jpg at position=left and b.jpg at position=right 	25
+44.1428 	DATA 	Keypress: 1
+44.1504 	Level keypress=1 at time= 2.991579 	25
+44.2883 	Level SHOWING IMAGE a.jpg 	25
+44.2923 	Level Reinforcement of 1 and a keypress of 1 for image of a.jpg 	25
+52.1417 	Level finished 	25
+#incorrect ^
+
+52.4034 	Level a.jpg at position=right and b.jpg at position=left 	25
+56.1429 	DATA 	Keypress: 1
+56.1539 	Level keypress=1 at time= 2.988196 	25
+56.2857 	Level SHOWING IMAGE b.jpg 	25
+56.2918 	Level Reinforcement of 2 and a keypress of 1 for image of b.jpg 	25
+64.1417 	Level finished 	25
+#correct ^
+
+64.3997 	Level a.jpg at position=right and b.jpg at position=left 	25
+68.1429 	DATA 	Keypress: 1
+68.1585 	Level keypress=1 at time= 2.984397 	25
+68.2877 	Level SHOWING IMAGE b.jpg 	25
+68.2930 	Level Reinforcement of 2 and a keypress of 1 for image of b.jpg 	25
+76.1417 	Level finished 	25
+#correct ^
+
+76.4171 	Level b.jpg at position=right and a.jpg at position=left 	25
+80.1429 	DATA 	Keypress: 1
+80.1634 	Level keypress=1 at time= 2.980312 	25
+80.2937 	Level SHOWING IMAGE a.jpg 	25
+80.2992 	Level Reinforcement of 1 and a keypress of 1 for image of a.jpg 	25
+#incorrect ^

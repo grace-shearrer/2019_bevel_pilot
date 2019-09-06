@@ -1,0 +1,31 @@
+9.0468 	DATA 	Mouse: wheel shift=(0,0), pos=(305,431)
+9.0581 	DATA 	Mouse: wheel shift=(0,1), pos=(305,431)
+9.0693 	DATA 	Mouse: wheel shift=(0,1), pos=(305,431)
+9.0857 	DATA 	Mouse: wheel shift=(0,1), pos=(305,431)
+9.0926 	DATA 	Mouse: wheel shift=(0,1), pos=(305,431)
+9.1028 	DATA 	Mouse: wheel shift=(0,0), pos=(305,431)
+9.1140 	DATA 	Mouse: wheel shift=(0,0), pos=(305,431)
+9.1817 	DATA 	Mouse: wheel shift=(0,0), pos=(305,436)
+9.4967 	DATA 	Mouse: wheel shift=(0,0), pos=(256,575)
+11.3756 	DATA 	Keypress: o
+11.3759 	Level start key press 	25
+11.3759 	Level fixation 0.000001 	25
+19.3787 	Level fixation end 0.000001 	25
+19.3787 	Level START 	25
+19.6502 	Level b.jpg at position=left and a.jpg at position=right 	25
+22.3799 	DATA 	Keypress: 1
+22.3966 	Level keypress=1 at time= 2.717754 	25
+22.5284 	Level SHOWING IMAGE b.jpg 	25
+22.5350 	Level Reinforcement of 2 and a keypress of 1 for image of b.jpg 	25
+30.3787 	Level finished 	25
+30.6413 	Level b.jpg at position=right and a.jpg at position=left 	25
+34.3799 	DATA 	Keypress: 1
+34.4006 	Level keypress=1 at time= 2.995222 	25
+34.5311 	Level SHOWING IMAGE a.jpg 	25
+34.5353 	Level Reinforcement of 1 and a keypress of 1 for image of a.jpg 	25
+42.3787 	Level finished 	25
+42.6405 	Level b.jpg at position=left and a.jpg at position=right 	25
+46.3800 	DATA 	Keypress: 1
+46.3879 	Level keypress=1 at time= 2.990264 	25
+46.5176 	Level SHOWING IMAGE b.jpg 	25
+46.5349 	Level Reinforcement of 2 and a keypress of 1 for image of b.jpg 	25

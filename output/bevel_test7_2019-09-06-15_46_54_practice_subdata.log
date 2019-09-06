@@ -1,0 +1,17 @@
+8.7740 	WARNING 	Couldn't measure a consistent frame rate.
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+8.9573 	WARNING 	t of last frame was 183.34ms (=1/5)
+9.9008 	DATA 	Keypress: o
+9.9011 	Level start key press 	25
+9.9011 	Level fixation 0.000000 	25
+9.9260 	WARNING 	t of last frame was 968.69ms (=1/1)
+9.9854 	WARNING 	t of last frame was 26.83ms (=1/37)
+10.0297 	WARNING 	t of last frame was 21.65ms (=1/46)
+10.1031 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+18.0445 	Level fixation end 0.000000 	25
+18.0445 	Level START 	25
+18.3118 	Level b.jpg at position=right and a.jpg at position=left 	25
+21.0456 	DATA 	Keypress: 1
+21.0636 	Level keypress=1 at time= 2.716897 	25
